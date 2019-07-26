@@ -1,0 +1,7 @@
+README.md
+imaget
+setup.py
+imaget.egg-info/PKG-INFO
+imaget.egg-info/SOURCES.txt
+imaget.egg-info/dependency_links.txt
+imaget.egg-info/top_level.txt

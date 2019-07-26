@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: imaget
+Version: 0.1
+Summary: Image Processor for command line.
+Home-page: https://github.com/lvntky/imaget
+Author: Levent Kaya
+Author-email: leventkayadev@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT Lıcense
+Classifier: Operating System:: OS Independent
+Description-Content-Type: text/markdown
