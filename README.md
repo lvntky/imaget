@@ -1,10 +1,12 @@
 # Imaget
 
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/97e6IX0kayYTK/giphy.gif">
+</p>
+
 > Image Processor for command line.
 
-<a href="https://www.patreon.com/leventkayadev">
-    <img alt="Patreon" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="40" />
-</a>
+
 
 ![GitHub](https://img.shields.io/github/license/lvntky/imaget)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pip)
