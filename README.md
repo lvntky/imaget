@@ -42,26 +42,9 @@ First download and install [pip](https://pypi.org/project/pip/)
  * [Rotate](#rotate)
  * [Watermark](#watermark)
  * [Flip](#flip)
-
- ## Convert
-
- gif will added soon.
-
- ## Crop
-
- gif will added soon.
-
- ## Resize
-
- gif will added soon.
-
- ## Watermark
-
- gif will added soon.
-
- ## Flip
-
- gif will added soon.
+ 
+ ## Usage
+ ![Usage](usage/usage.gif)
 
 ## Used Technologies
 
